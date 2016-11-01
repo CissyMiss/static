@@ -1,0 +1,259 @@
+/* CSS Document */
+.top{
+	border:1px solid #ececec;	
+}
+.top_center{
+	height:30px;
+	width:1080px;
+	margin:0 auto;	
+}
+.top_center .ship{
+	height:31px;
+	
+	background-color:#FFF;
+	line-height:31px;
+	text-align:center;
+	float:left;
+}
+
+.top_center .top_bars{
+	float:right;	
+}
+.top_center .top_bars li{
+	float:left;	
+}
+.top_bars li a{
+	height:30px;
+	line-height:30px;	
+	padding:0 15px;
+}
+.header{
+	background-color:#FBF9FA;
+}
+.header3{
+	width:1080px;
+	margin:0 auto;	
+	overflow:hidden;
+	
+}
+.header3 img{
+	float:left;
+	margin:15px 100px 22px 0;	
+}
+.header3 .h3_center{
+	float:left;
+	margin:30px 0 0 10px;	
+}
+.header3 .search_box{
+	border:1px solid #c5131e;
+	overflow:hidden;
+}
+.header3 .search_box input{
+	float:left;
+	width:418px;
+	height:34px;
+	border:none;	
+}
+.h3_center .search_box span{
+	float:left;
+	width:84px;
+	height:34px;
+	background-color:#c5131e;
+	line-height:34px;
+	text-align:center;
+	font-size:14px;
+	font-weight:bold;
+	color:#FFF;
+}
+.h3_center p{
+	height:16px;
+	line-height:16px;
+	margin:10px 0;	
+}
+.h3_center p a{
+	padding:0 10px;
+}
+
+.header3 .h3_right{
+	float:left;
+	margin:20px 0 0 130px;
+}
+.h3_right span{ 
+	display:block;
+	margin-top:12px
+}
+.h3_right span a.number{
+	font-size:20px;
+	color:#c5131e;
+	font-weight:bold;
+}
+
+.nav_top{
+	border-bottom:2px solid #c5000c;	
+}
+.nav_top_center{
+	width:1080px;
+	margin:0 auto;	
+	overflow:hidden;
+}
+.nav_top_center div{
+	float:left;
+	width:165px;
+	height:36px;
+	background-color:#c5000c;
+	padding-left:15px;
+	text-align:center;
+	line-height:36px;
+	
+}
+.nav_top_center div a{
+	color:#FFF;
+	font-size:14px;
+	font-weight: bold;
+}
+.conment{ 
+	width:1080px;
+	height:476px;
+	margin:0 auto;
+}
+
+
+
+
+.gift{
+	width:1080px; 
+	overflow:hidden;
+	margin:0 auto;
+}
+.gift .one{
+	float:left;
+	margin:20 5px 0 5px
+}
+.gift .one span.name{
+	height:40px;width:260px;
+	background-color:#c5000c; 
+	display:block;line-height:40px; 
+	text-align:center; 
+}
+.gift .one span.name a{
+	color:#fff; letter-spacing:5px; 
+	font-size:16px; font-weight:bold
+}
+.gift .one span.picture{
+	display:block; width:248px; 
+	height:248px; 
+	border:1px solid #ccc; 
+	padding:5px;
+}
+
+
+
+.nav{
+	width:1080px; 
+	overflow:hidden;
+	margin:0 auto;
+}
+.nav_box{
+	border-bottom:2px solid #c5000c;
+	margin-top:20px;
+}
+.nav_box a{
+	width:165px; line-height:34px;
+	text-align:center; background-color:#c5000c;
+	display:block;
+	font-size:14px;
+	color:#fff;
+}
+.nav ul{ float:left; width:165px}
+
+.nav ul li a{
+	width:165px;
+	line-height:112px;
+	text-align:center;
+	background-color:#181818;
+	display:block; font-size:14px;
+	color:#fff;
+	font-weight:bold
+}
+.nav .container{
+	background:url(../images/cf54a2083fc61bf5de757240878ffdfa.jpg) no-repeat left;
+	float:right; 
+	width:915px; 
+	height:450px
+}
+.nav .container .left{
+	margin-top:70px;
+	margin-left:75px;
+	float:left
+}
+.nav .container .left div{
+	background:url(../images/head_03.png) no-repeat left;
+	padding-left:70px;
+	}
+.nav .container .left div p{
+	width:350px;
+	line-height:26px;
+}
+.nav .container .right{
+	float:left;
+	margin:75px  0 0 35px
+}
+
+
+.column{
+	width:1080px; 
+	margin:10px auto;
+	border:1px solid #ccc;
+	overflow:hidden
+}
+.column .one{
+	float:left;
+	margin:20px 0 20px 50px;
+	border-right:1px solid #ccc;
+	padding-right:40px
+}
+.column .one a{display:block;
+line-height:30px
+}
+.column .one a.t{
+	background:url(../images/list-product_21.png) no-repeat left; 
+	padding-left:18px; 
+	font-size:16px
+}
+.column .one a.p{
+	padding-left:18px
+}
+.column .two{
+	border-right:none
+}
+
+.footer{
+	background-color:#c5000c;
+	margin-top:20px;
+}
+.footer .footer_box{
+	width:1080px;
+	margin:0 auto;
+	overflow:hidden
+}
+.footer .footer_box .left{
+	float:left;
+	margin:30px 0 0 60px;
+}
+.footer .footer_box .left span{
+	display:block; height:40px;
+	line-height:40px;
+	color:#fff;
+}
+.footer .footer_box .left span.call{
+	font-size:20px;
+	font-weight:bold
+}
+
+.footer .footer_box .right{
+	float:right;
+	margin:30px 60px 0 0
+}
+.footer .footer_box .right span{
+	display:block
+}
